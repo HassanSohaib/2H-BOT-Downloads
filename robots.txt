@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hassansohaib.github.io/2H-BOT-Downloads/sitemap.xml
